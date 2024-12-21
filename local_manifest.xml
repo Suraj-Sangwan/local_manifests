@@ -14,6 +14,6 @@
  <project path="kernel/xiaomi/camellia" name="android_kernel_xiaomi_camellia" remote="Suraj-Sangwan" revision="15" />
  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="PQEnablers-Devices" revision="lineage-21" />
  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="PQEnablers-Devices" revision="lineage-21" />
- <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Suraj-Sangwan" />
- <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="Suraj-Sangwan" />
+ <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Suraj-Sangwan" revision="fourteen" />
+ <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="Suraj-Sangwan" revision="v4a" />
 </manifest>
