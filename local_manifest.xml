@@ -5,10 +5,10 @@
  <remote name="LineageOS" fetch="https://github.com/LineageOS" />
  <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
  <!-- Trees -->
- <project path="device/oneplus/dumpling" name="android_device_oneplus_dumpling" remote="Suraj-Sangwan" revision="lineage-22.0" />
- <project path="device/oneplus/msm8998-common" name="android_device_oneplus_msm8998-common" remote="Suraj-Sangwan" revision="lineage-22.0" />
- <project path="kernel/oneplus/msm8998" name="android_kernel_oneplus_msm8998" remote="LineageOS" revision="lineage-22.0" />
- <project path="vendor/oneplus/dumpling" name="proprietary_vendor_oneplus_dumpling" remote="TheMuppets" revision="lineage-22.0" />
- <project path="vendor/oneplus/msm8998-common" name="proprietary_vendor_oneplus_msm8998-common" remote="TheMuppets" revision="lineage-22.0" />
- <project path="hardware/oneplus" name="android_hardware_oneplus" remote="LineageOS" revision="lineage-22.0" />
+ <project path="device/oneplus/dumpling" name="android_device_oneplus_dumpling" remote="Suraj-Sangwan" revision="lineage-22.1" />
+ <project path="device/oneplus/msm8998-common" name="android_device_oneplus_msm8998-common" remote="Suraj-Sangwan" revision="lineage-22.1" />
+ <project path="kernel/oneplus/msm8998" name="android_kernel_oneplus_msm8998" remote="LineageOS" revision="lineage-22.1" />
+ <project path="vendor/oneplus/dumpling" name="proprietary_vendor_oneplus_dumpling" remote="TheMuppets" revision="lineage-22.1" />
+ <project path="vendor/oneplus/msm8998-common" name="proprietary_vendor_oneplus_msm8998-common" remote="TheMuppets" revision="lineage-22.1" />
+ <project path="hardware/oneplus" name="android_hardware_oneplus" remote="LineageOS" revision="lineage-22.1" />
 </manifest>
