@@ -7,7 +7,7 @@
  <!-- Trees -->
  <project path="device/oneplus/fajita" name="android_device_oneplus_fajita" remote="Suraj-Sangwan" />
  <project path="device/oneplus/sdm845-common" name="android_device_oneplus_sdm845-common" remote="Suraj-Sangwan" />
- <project path="kernel/oneplus/sdm845" name="android_kernel_oneplus_sdm845" remote="LineageOS" />
+ <project path="kernel/oneplus/sdm845" name="android_kernel_oneplus_sdm845" remote="Suraj-Sangwan" />
  <project path="vendor/oneplus/fajita" name="proprietary_vendor_oneplus_fajita" remote="TheMuppets" />
  <project path="vendor/oneplus/sdm845-common" name="proprietary_vendor_oneplus_sdm845-common" remote="TheMuppets" />
  <project path="hardware/oneplus" name="android_hardware_oneplus" remote="LineageOS" />
